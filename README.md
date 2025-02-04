@@ -1,4 +1,4 @@
-<img src="http://alize.univ-avignon.fr/images/LIA_RAL.png" alt="The LIA_RAL logo" height="198" >
+<img src="http://alize.univ-avignon.fr/images/LIA_RAL.png" alt="The LIA_RAL logo" height="198" />
 
 # LIA_RAL
 
